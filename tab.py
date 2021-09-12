@@ -1,0 +1,1 @@
+print("nature is so so \t beautiful")
